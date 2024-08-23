@@ -1,5 +1,5 @@
 # Predict-the-orbit-of-the-James-Webb-space-telescope-with-a-quantum-algorithm---Herman-Kolden
-Womanium Quantum Hackathon 2022
+Womanium Quantum Hackathon 2022(May-July)
 
 ## Team name
 Entangled Webb
@@ -14,7 +14,7 @@ Entangled Webb
 
 
 ## Solutions
-* Our final report for all of the task can be seen [here](https://github.com/aviiacharya/Predict-the-orbit-of-the-James-Webb-space-telescope-with-a-quantum-algorithm---Herman-Kolden/blob/main/Final%20Report%20Entangled%20Webb.pdf))
-* Our Jupyter notebook for Task 1 is [here](https://github.com/lakubis/Predict-the-orbit-of-the-James-Webb-space-telescope-with-a-quantum-algorithm---Herman-Kolden/blob/main/Task_1_submit.ipynb)
-* Our Jupyter notebook for Task 2 is [here](https://github.com/lakubis/Predict-the-orbit-of-the-James-Webb-space-telescope-with-a-quantum-algorithm---Herman-Kolden/blob/main/Task_2_submit.ipynb)
-* Our Jupyter notebook for Task 3 is [here](https://github.com/lakubis/Predict-the-orbit-of-the-James-Webb-space-telescope-with-a-quantum-algorithm---Herman-Kolden/blob/main/Task_3_submit.ipynb)
+* Our final report for all of the task can be seen [here](https://github.com/aviiacharya/Predict-the-orbit-of-the-James-Webb-space-telescope-with-a-quantum-algorithm---Herman-Kolden/blob/main/Final%20Report%20Entangled%20Webb.pdf)
+* Our Jupyter notebook for [Task 1](https://github.com/aviiacharya/Predict-the-orbit-of-the-James-Webb-space-telescope-with-a-quantum-algorithm---Herman-Kolden/blob/main/Task_1.ipynb)
+* Our Jupyter notebook for [Task 2](https://github.com/aviiacharya/Predict-the-orbit-of-the-James-Webb-space-telescope-with-a-quantum-algorithm---Herman-Kolden/blob/main/Task_2.ipynb)
+* Our Jupyter notebook for [Task 3](https://github.com/aviiacharya/Predict-the-orbit-of-the-James-Webb-space-telescope-with-a-quantum-algorithm---Herman-Kolden/blob/main/Task_3.ipynb)
