@@ -14,7 +14,7 @@ Entangled Webb
 
 
 ## Solutions
-* Our final report for all of the task can be seen [here]([https://github.com/aviiacharya/Predict-the-orbit-of-the-James-Webb-space-telescope-with-a-quantum-algorithm---Herman-Kolden/blob/main/Final%20Report%20Entangled%20Webb.pdf]))
+* Our final report for all of the task can be seen [here](https://github.com/aviiacharya/Predict-the-orbit-of-the-James-Webb-space-telescope-with-a-quantum-algorithm---Herman-Kolden/blob/main/Final%20Report%20Entangled%20Webb.pdf))
 * Our Jupyter notebook for Task 1 is [here](https://github.com/lakubis/Predict-the-orbit-of-the-James-Webb-space-telescope-with-a-quantum-algorithm---Herman-Kolden/blob/main/Task_1_submit.ipynb)
 * Our Jupyter notebook for Task 2 is [here](https://github.com/lakubis/Predict-the-orbit-of-the-James-Webb-space-telescope-with-a-quantum-algorithm---Herman-Kolden/blob/main/Task_2_submit.ipynb)
 * Our Jupyter notebook for Task 3 is [here](https://github.com/lakubis/Predict-the-orbit-of-the-James-Webb-space-telescope-with-a-quantum-algorithm---Herman-Kolden/blob/main/Task_3_submit.ipynb)
